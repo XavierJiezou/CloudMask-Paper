@@ -1,12 +1,12 @@
 # CloudMask-Paper
 
-遥感图像云检测（语义分割）相关论文阅读笔记
+遥感图像云检测（语义分割）相关论文阅读笔记。
 
 ## 速览
 
 | 标题                                                                                                                              | 被引 | 下载                                          | 收录                   | 参考            |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------- | ---------------------- | --------------- |
-| [Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery](https://ieeexplore.ieee.org/abstract/document/8898776) | 67   | [arxiv](https://arxiv.org/pdf/1901.10077.pdf) | IGARSS（会议级别：EI） | [BibTeX](#参考) |
+| [Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery](https://ieeexplore.ieee.org/abstract/document/8898776) | 67   | [arxiv](https://arxiv.org/pdf/1901.10077.pdf) | IGARSS [EI] | [BibTeX](#参考) |
 
 ## 参考
 
