@@ -10,7 +10,7 @@
 
 ## 笔记
 
-- [Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery](/notes/Cloud-Net%EF%BC%9AAn%20end-to-end%20cloud%20detection%20algorithm%20for%20Landsat%208%20imagery/)
+- [Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery](/notes/Cloud-Net/)
 
 ## 参考
 
