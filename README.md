@@ -6,7 +6,7 @@
 
 | 标题                                                                                          | 被引 | 下载                                          | 收录                                                                                | 参考            |
 | --------------------------------------------------------------------------------------------- | ---- | --------------------------------------------- | ----------------------------------------------------------------------------------- | --------------- |
-| [Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery](/notes/Cloud-Net/) | 67   | [arxiv](https://arxiv.org/pdf/1901.10077.pdf) | [IGARSS 2019](https://ieeexplore.ieee.org/abstract/document/8898776)（EI 会议检索） | [BibTeX](#参考) |
+| [Cloud-Net](/notes/Cloud-Net/) | 67   | [arxiv](https://arxiv.org/pdf/1901.10077.pdf) | [IGARSS 2019](https://ieeexplore.ieee.org/abstract/document/8898776)（EI 会议检索） | [BibTeX](#参考) |
 
 ## 参考
 
