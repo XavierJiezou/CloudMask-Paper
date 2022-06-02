@@ -1,5 +1,22 @@
 # Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery
 
+## 速览
+
+|被引| 下载 | 收录|源码|引用|
+|--|--|-|-|-|
+| 67 | [arxiv](https://arxiv.org/pdf/1901.10077.pdf) |IGARSS 2019（EI 会议检索）|[GitHub](https://github.com/SorourMo/Cloud-Net-A-semantic-segmentation-CNN-for-cloud-detection)|BibTeX 引用格式如下|
+
+```BibTeX
+@inproceedings{mohajerani2019cloud,
+  title={Cloud-Net: An end-to-end cloud detection algorithm for Landsat 8 imagery},
+  author={Mohajerani, Sorour and Saeedi, Parvaneh},
+  booktitle={IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={1029--1032},
+  year={2019},
+  organization={IEEE}
+}
+```
+
 ## 摘要
 
 Cloud-Net 是对 **Fully Convolutional Network（FCN，全卷积网络）** 的改进。在基准数据集上进行实验，其 Jacard Index（ IOU） 指标优于最新方法 8.7%。
